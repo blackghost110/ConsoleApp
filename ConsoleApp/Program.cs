@@ -1,7 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, one more modification!");
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, one more modification!");
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, one more modification!");// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, one more modification!");
+﻿void UneMethode()
+{
+    Console.WriteLine("premiere");
+}
+void DeuxMethode()
+{
+    Console.WriteLine("premiere");
+
+}
+void TroisMethode()
+{
+    Console.WriteLine("premiere");
+}
